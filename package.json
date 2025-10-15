@@ -2,6 +2,7 @@
   "name": "e9-trainer-bot",
   "version": "1.0.0",
   "description": "A Discord bot for catching and battling E9 creatures",
+  "type": "module",
   "main": "dist/index.js",
   "scripts": {
     "build": "tsc",
