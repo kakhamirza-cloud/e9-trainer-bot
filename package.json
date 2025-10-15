@@ -6,6 +6,7 @@
   "scripts": {
     "build": "tsc",
     "start": "node dist/index.js",
+    "start:prod": "npm run build && npm start",
     "dev": "ts-node src/index.ts",
     "watch": "tsc --watch",
     "register": "ts-node src/register-commands.ts",
