@@ -1,0 +1,35 @@
+{
+  "name": "e9-trainer-bot",
+  "version": "1.0.0",
+  "description": "A Discord bot for catching and battling E9 creatures",
+  "main": "dist/index.js",
+  "scripts": {
+    "build": "tsc",
+    "start": "node dist/index.js",
+    "dev": "ts-node src/index.ts",
+    "watch": "tsc --watch",
+    "register": "ts-node src/register-commands.ts",
+    "pm2:start": "pm2 start ecosystem.config.js",
+    "pm2:stop": "pm2 stop e9-trainer-bot",
+    "pm2:restart": "pm2 restart e9-trainer-bot",
+    "pm2:delete": "pm2 delete e9-trainer-bot",
+    "pm2:logs": "pm2 logs e9-trainer-bot",
+    "pm2:status": "pm2 status",
+    "pm2:monit": "pm2 monit"
+  },
+  "keywords": ["discord", "bot", "pokemon", "e9", "gaming"],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^14.14.1",
+    "lowdb": "^7.0.1",
+    "dotenv": "^16.3.1",
+    "uuid": "^9.0.1"
+  },
+  "devDependencies": {
+    "@types/node": "^20.10.5",
+    "@types/uuid": "^9.0.7",
+    "typescript": "^5.3.3",
+    "ts-node": "^10.9.2"
+  }
+}

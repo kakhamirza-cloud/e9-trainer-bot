@@ -1,0 +1,2602 @@
+{
+  "users": {
+    "410662767981232128": {
+      "userId": "410662767981232128",
+      "creatures": [
+        {
+          "id": "admin-creature-001",
+          "name": "Z the ADMIN",
+          "level": 3,
+          "stats": {
+            "hp": 5000,
+            "maxHp": 5000,
+            "attack": 5000,
+            "defense": 5000
+          },
+          "rarity": "mythical",
+          "caughtAt": "2025-01-10T12:00:00.000Z",
+          "experience": 0
+        },
+        {
+          "id": "7f5ead99-2252-4392-b1b7-06c7b0a233af",
+          "name": "molten",
+          "level": 1,
+          "stats": {
+            "hp": 90,
+            "maxHp": 90,
+            "attack": 90,
+            "defense": 75
+          },
+          "rarity": "rare",
+          "caughtAt": "2025-10-13T21:59:52.092Z",
+          "experience": 0
+        }
+      ],
+      "totalCaught": 7,
+      "totalBattles": 4,
+      "totalWins": 3,
+      "adventureItems": [
+        {
+          "name": "Greater Health Potion",
+          "type": "food",
+          "statBonus": 15,
+          "description": "A powerful healing potion that restores 15 HP",
+          "emoji": "🍯",
+          "quantity": 1
+        },
+        {
+          "name": "Leather Armor",
+          "type": "armor",
+          "statBonus": 1,
+          "description": "Basic armor that increases defense by 1",
+          "emoji": "🛡️",
+          "quantity": 1
+        }
+      ],
+      "lastAdventureTime": 1760390531580,
+      "gymBadges": [],
+      "dailyUsage": {
+        "catchCount": 1,
+        "challengeCount": 1,
+        "adventureCount": 0,
+        "lastResetDate": "2025-10-15T04:42:51.904Z"
+      },
+      "lockedCreatureId": "admin-creature-001"
+    },
+    "1237810533030166580": {
+      "userId": "1237810533030166580",
+      "creatures": [],
+      "totalCaught": 2,
+      "totalBattles": 2,
+      "totalWins": 0,
+      "adventureItems": [],
+      "lastAdventureTime": 0,
+      "gymBadges": [],
+      "dailyUsage": {
+        "catchCount": 2,
+        "challengeCount": 1,
+        "adventureCount": 0,
+        "lastResetDate": "2025-10-13T21:43:18.179Z"
+      }
+    },
+    "806696847552938015": {
+      "userId": "806696847552938015",
+      "creatures": [
+        {
+          "id": "23f692ad-2181-47ac-8b7b-7fd9b61dbb50",
+          "name": "byte",
+          "level": 1,
+          "stats": {
+            "hp": 65,
+            "maxHp": 65,
+            "attack": 70,
+            "defense": 55
+          },
+          "rarity": "uncommon",
+          "caughtAt": "2025-10-10T16:05:00.082Z",
+          "experience": 0
+        },
+        {
+          "id": "a578f4a6-a1d4-4532-a5ee-ef2be9923fcd",
+          "name": "robot",
+          "level": 1,
+          "stats": {
+            "hp": 120,
+            "maxHp": 120,
+            "attack": 100,
+            "defense": 110
+          },
+          "rarity": "epic",
+          "caughtAt": "2025-10-12T12:23:09.262Z",
+          "experience": 0
+        },
+        {
+          "id": "b8ef31f2-2693-44ec-b2d4-595c87fbda48",
+          "name": "flare",
+          "level": 1,
+          "stats": {
+            "hp": 45,
+            "maxHp": 45,
+            "attack": 50,
+            "defense": 35
+          },
+          "rarity": "common",
+          "caughtAt": "2025-10-12T12:32:43.384Z",
+          "experience": 0
+        }
+      ],
+      "totalCaught": 12,
+      "totalBattles": 3,
+      "totalWins": 1,
+      "adventureItems": [],
+      "lastAdventureTime": 1760493620885,
+      "gymBadges": [],
+      "dailyUsage": {
+        "catchCount": 1,
+        "challengeCount": 0,
+        "adventureCount": 1,
+        "lastResetDate": "2025-10-15T02:00:16.462Z"
+      }
+    },
+    "824732071792607265": {
+      "userId": "824732071792607265",
+      "creatures": [
+        {
+          "id": "29ecc79c-f56e-4cb5-b2da-a510c01bda6a",
+          "name": "robot",
+          "level": 2,
+          "stats": {
+            "hp": 47,
+            "maxHp": 95,
+            "attack": 80,
+            "defense": 85
+          },
+          "rarity": "rare",
+          "caughtAt": "2025-10-08T18:37:45.831Z",
+          "experience": 0
+        },
+        {
+          "id": "b4e7372a-61b3-4a7e-ada1-67e75f4503ac",
+          "name": "gizmo",
+          "level": 2,
+          "stats": {
+            "hp": 22,
+            "maxHp": 90,
+            "attack": 90,
+            "defense": 75
+          },
+          "rarity": "rare",
+          "caughtAt": "2025-10-08T18:38:20.552Z",
+          "experience": 0
+        },
+        {
+          "id": "a81e78d6-9e85-4d95-876c-f5c54a14010d",
+          "name": "tatters",
+          "level": 1,
+          "stats": {
+            "hp": 50,
+            "maxHp": 50,
+            "attack": 45,
+            "defense": 40
+          },
+          "rarity": "common",
+          "caughtAt": "2025-10-10T07:57:12.066Z",
+          "experience": 0
+        }
+      ],
+      "totalCaught": 8,
+      "totalBattles": 3,
+      "totalWins": 3,
+      "adventureItems": [],
+      "lastAdventureTime": 1760122948910,
+      "gymBadges": [],
+      "dailyUsage": {
+        "catchCount": 10,
+        "challengeCount": 0,
+        "adventureCount": 0,
+        "lastResetDate": "2025-10-10T07:56:33.143Z"
+      }
+    },
+    "346343108629233664": {
+      "userId": "346343108629233664",
+      "creatures": [
+        {
+          "id": "f0fee2a2-c0cb-459a-b5cc-febecd107ba6",
+          "name": "zap",
+          "level": 1,
+          "stats": {
+            "hp": 120,
+            "maxHp": 120,
+            "attack": 100,
+            "defense": 110
+          },
+          "rarity": "epic",
+          "caughtAt": "2025-10-09T16:03:11.342Z",
+          "experience": 0
+        },
+        {
+          "id": "db7bde5c-95b0-4761-90bc-60d5e9c2a604",
+          "name": "zap",
+          "level": 1,
+          "stats": {
+            "hp": 95,
+            "maxHp": 95,
+            "attack": 80,
+            "defense": 85
+          },
+          "rarity": "rare",
+          "caughtAt": "2025-10-11T15:58:00.244Z",
+          "experience": 0
+        }
+      ],
+      "totalCaught": 10,
+      "totalBattles": 0,
+      "totalWins": 0,
+      "adventureItems": [],
+      "lastAdventureTime": 1760457660345,
+      "gymBadges": [],
+      "dailyUsage": {
+        "catchCount": 10,
+        "challengeCount": 0,
+        "adventureCount": 2,
+        "lastResetDate": "2025-10-14T15:57:16.470Z"
+      }
+    },
+    "923586222964736000": {
+      "userId": "923586222964736000",
+      "creatures": [
+        {
+          "id": "1145d656-9ccc-47df-8c01-0edb58e86599",
+          "name": "gizmo",
+          "level": 1,
+          "stats": {
+            "hp": 70,
+            "maxHp": 70,
+            "attack": 70,
+            "defense": 55
+          },
+          "rarity": "uncommon",
+          "caughtAt": "2025-10-08T17:22:55.168Z",
+          "experience": 0
+        },
+        {
+          "id": "38b181f0-3cef-40d4-8ab6-c66cbfede878",
+          "name": "ember",
+          "level": 1,
+          "stats": {
+            "hp": 90,
+            "maxHp": 90,
+            "attack": 90,
+            "defense": 75
+          },
+          "rarity": "rare",
+          "caughtAt": "2025-10-09T17:11:48.731Z",
+          "experience": 0
+        },
+        {
+          "id": "ea584b36-b9b1-4b74-b010-0cfe2b343288",
+          "name": "molten",
+          "level": 1,
+          "stats": {
+            "hp": 90,
+            "maxHp": 90,
+            "attack": 90,
+            "defense": 75
+          },
+          "rarity": "rare",
+          "caughtAt": "2025-10-09T17:12:03.920Z",
+          "experience": 0
+        }
+      ],
+      "totalCaught": 5,
+      "totalBattles": 0,
+      "totalWins": 0,
+      "adventureItems": [],
+      "lastAdventureTime": 1760029930312,
+      "gymBadges": [],
+      "dailyUsage": {
+        "catchCount": 6,
+        "challengeCount": 0,
+        "adventureCount": 0,
+        "lastResetDate": "2025-10-09T17:10:52.150Z"
+      }
+    },
+    "829151836186869810": {
+      "userId": "829151836186869810",
+      "creatures": [
+        {
+          "id": "ce82af0c-eb7e-4bc3-a7b8-6c046ac09ba5",
+          "name": "robot",
+          "level": 1,
+          "stats": {
+            "hp": 75,
+            "maxHp": 75,
+            "attack": 60,
+            "defense": 65
+          },
+          "rarity": "uncommon",
+          "caughtAt": "2025-10-08T18:08:17.670Z",
+          "experience": 0
+        },
+        {
+          "id": "b298467c-418d-4cf6-a576-b81ce05a8c61",
+          "name": "gizmo",
+          "level": 1,
+          "stats": {
+            "hp": 70,
+            "maxHp": 70,
+            "attack": 70,
+            "defense": 55
+          },
+          "rarity": "uncommon",
+          "caughtAt": "2025-10-09T16:36:53.070Z",
+          "experience": 0
+        },
+        {
+          "id": "a6ac5a1f-d0c4-42e2-9dca-a7dbbc21286e",
+          "name": "celeste",
+          "level": 1,
+          "stats": {
+            "hp": 70,
+            "maxHp": 70,
+            "attack": 65,
+            "defense": 60
+          },
+          "rarity": "uncommon",
+          "caughtAt": "2025-10-09T16:37:09.931Z",
+          "experience": 0
+        }
+      ],
+      "totalCaught": 4,
+      "totalBattles": 0,
+      "totalWins": 0,
+      "adventureItems": [
+        {
+          "name": "Leather Armor",
+          "type": "armor",
+          "statBonus": 1,
+          "description": "Basic armor that increases defense by 1",
+          "emoji": "🛡️",
+          "quantity": 1
+        }
+      ],
+      "lastAdventureTime": 1760208931963,
+      "gymBadges": [],
+      "dailyUsage": {
+        "catchCount": 10,
+        "challengeCount": 0,
+        "adventureCount": 0,
+        "lastResetDate": "2025-10-11T18:55:00.012Z"
+      }
+    },
+    "524083785013133333": {
+      "userId": "524083785013133333",
+      "creatures": [
+        {
+          "id": "62e401fb-d2bc-45e4-86cd-98f4c9a67233",
+          "name": "byte",
+          "level": 1,
+          "stats": {
+            "hp": 65,
+            "maxHp": 65,
+            "attack": 70,
+            "defense": 55
+          },
+          "rarity": "uncommon",
+          "caughtAt": "2025-10-08T18:48:38.392Z",
+          "experience": 0
+        },
+        {
+          "id": "0098d38f-2204-43d2-9fed-c8cb4e932a57",
+          "name": "tanky",
+          "level": 1,
+          "stats": {
+            "hp": 90,
+            "maxHp": 90,
+            "attack": 90,
+            "defense": 75
+          },
+          "rarity": "rare",
+          "caughtAt": "2025-10-09T18:37:16.960Z",
+          "experience": 0
+        }
+      ],
+      "totalCaught": 4,
+      "totalBattles": 0,
+      "totalWins": 0,
+      "adventureItems": [
+        {
+          "name": "Health Potion",
+          "type": "food",
+          "statBonus": 10,
+          "description": "A basic healing potion that restores 10 HP",
+          "emoji": "🧪",
+          "quantity": 1
+        }
+      ],
+      "lastAdventureTime": 1760035443142,
+      "gymBadges": [],
+      "dailyUsage": {
+        "catchCount": 10,
+        "challengeCount": 0,
+        "adventureCount": 0,
+        "lastResetDate": "2025-10-09T18:36:31.721Z"
+      }
+    },
+    "911542495345782794": {
+      "userId": "911542495345782794",
+      "creatures": [
+        {
+          "id": "d993f61f-d7ad-4b3a-b994-5e5dab0e65a4",
+          "name": "polar",
+          "level": 2,
+          "stats": {
+            "hp": 70,
+            "maxHp": 95,
+            "attack": 80,
+            "defense": 86
+          },
+          "rarity": "rare",
+          "caughtAt": "2025-10-14T07:51:49.823Z",
+          "experience": 0
+        },
+        {
+          "id": "426b79b9-12bb-468f-902b-0ef5c33380c1",
+          "name": "Medusa",
+          "level": 5,
+          "stats": {
+            "hp": 41,
+            "maxHp": 174,
+            "attack": 138,
+            "defense": 131
+          },
+          "rarity": "mythical",
+          "caughtAt": "2025-10-14T07:59:59.802Z",
+          "experience": 0
+        },
+        {
+          "id": "e1dbf9d7-171c-4840-a152-e14466e17e37",
+          "name": "gilly",
+          "level": 1,
+          "stats": {
+            "hp": 70,
+            "maxHp": 70,
+            "attack": 70,
+            "defense": 55
+          },
+          "rarity": "uncommon",
+          "caughtAt": "2025-10-14T12:43:51.095Z",
+          "experience": 0
+        }
+      ],
+      "totalCaught": 17,
+      "totalBattles": 10,
+      "totalWins": 5,
+      "adventureItems": [],
+      "lastAdventureTime": 1760560186799,
+      "gymBadges": [],
+      "dailyUsage": {
+        "catchCount": 0,
+        "challengeCount": 3,
+        "adventureCount": 1,
+        "lastResetDate": "2025-10-15T20:29:46.802Z"
+      },
+      "lockedCreatureId": "426b79b9-12bb-468f-902b-0ef5c33380c1"
+    },
+    "1016090017787039865": {
+      "userId": "1016090017787039865",
+      "creatures": [
+        {
+          "id": "639aede7-da79-49e3-9d93-e2ecc1ae1d5a",
+          "name": "skittles",
+          "level": 1,
+          "stats": {
+            "hp": 70,
+            "maxHp": 70,
+            "attack": 70,
+            "defense": 55
+          },
+          "rarity": "uncommon",
+          "caughtAt": "2025-10-08T19:09:22.983Z",
+          "experience": 0
+        }
+      ],
+      "totalCaught": 1,
+      "totalBattles": 0,
+      "totalWins": 0,
+      "adventureItems": [],
+      "lastAdventureTime": 0,
+      "gymBadges": [],
+      "dailyUsage": {
+        "catchCount": 4,
+        "challengeCount": 0,
+        "adventureCount": 0,
+        "lastResetDate": "2025-10-08T19:08:57.799Z"
+      }
+    },
+    "829127650915254312": {
+      "userId": "829127650915254312",
+      "creatures": [
+        {
+          "id": "26ba5c97-5b7f-4833-ae8a-bfa626c81554",
+          "name": "robot",
+          "level": 1,
+          "stats": {
+            "hp": 95,
+            "maxHp": 95,
+            "attack": 80,
+            "defense": 85
+          },
+          "rarity": "rare",
+          "caughtAt": "2025-10-08T19:38:02.647Z",
+          "experience": 0
+        },
+        {
+          "id": "a30d9b0a-d335-44e5-93bc-76a5f0216dfa",
+          "name": "tanky",
+          "level": 3,
+          "stats": {
+            "hp": 20,
+            "maxHp": 90,
+            "attack": 90,
+            "defense": 75
+          },
+          "rarity": "rare",
+          "caughtAt": "2025-10-08T19:39:21.473Z",
+          "experience": 0
+        },
+        {
+          "id": "c13ba3e9-42bb-4878-985d-e2a350fc712c",
+          "name": "zap",
+          "level": 3,
+          "stats": {
+            "hp": 31,
+            "maxHp": 120,
+            "attack": 100,
+            "defense": 110
+          },
+          "rarity": "epic",
+          "caughtAt": "2025-10-08T20:09:10.844Z",
+          "experience": 0
+        }
+      ],
+      "totalCaught": 4,
+      "totalBattles": 4,
+      "totalWins": 4,
+      "adventureItems": [
+        {
+          "name": "Rusty Sword",
+          "type": "weapon",
+          "statBonus": 1,
+          "description": "An old sword that increases attack by 1",
+          "emoji": "⚔️",
+          "quantity": 1
+        },
+        {
+          "name": "Leather Armor",
+          "type": "armor",
+          "statBonus": 1,
+          "description": "Basic armor that increases defense by 1",
+          "emoji": "🛡️",
+          "quantity": 1
+        },
+        {
+          "name": "Plate Armor",
+          "type": "armor",
+          "statBonus": 3,
+          "description": "Heavy armor that increases defense by 3",
+          "emoji": "🛡️",
+          "quantity": 1
+        }
+      ],
+      "lastAdventureTime": 1760457285562,
+      "gymBadges": [],
+      "dailyUsage": {
+        "catchCount": 0,
+        "challengeCount": 2,
+        "adventureCount": 4,
+        "lastResetDate": "2025-10-14T14:59:53.787Z"
+      },
+      "lockedCreatureId": "c13ba3e9-42bb-4878-985d-e2a350fc712c"
+    },
+    "884982836233371708": {
+      "userId": "884982836233371708",
+      "creatures": [
+        {
+          "id": "ead7681b-27e3-44f4-9427-76a520d2d7dc",
+          "name": "Pepe",
+          "level": 5,
+          "stats": {
+            "hp": 59,
+            "maxHp": 180,
+            "attack": 143,
+            "defense": 142
+          },
+          "rarity": "mythical",
+          "caughtAt": "2025-10-10T10:24:40.540Z",
+          "experience": 0
+        }
+      ],
+      "totalCaught": 21,
+      "totalBattles": 10,
+      "totalWins": 6,
+      "adventureItems": [
+        {
+          "name": "Iron Dagger",
+          "type": "weapon",
+          "statBonus": 2,
+          "description": "A sharp dagger that increases attack by 2",
+          "emoji": "🗡️",
+          "quantity": 1
+        },
+        {
+          "name": "Health Potion",
+          "type": "food",
+          "statBonus": 10,
+          "description": "A basic healing potion that restores 10 HP",
+          "emoji": "🧪",
+          "quantity": 1
+        },
+        {
+          "name": "Greater Health Potion",
+          "type": "food",
+          "statBonus": 15,
+          "description": "A powerful healing potion that restores 15 HP",
+          "emoji": "🍯",
+          "quantity": 1
+        },
+        {
+          "name": "Rusty Sword",
+          "type": "weapon",
+          "statBonus": 1,
+          "description": "An old sword that increases attack by 1",
+          "emoji": "⚔️",
+          "quantity": 2
+        },
+        {
+          "name": "Steel Blade",
+          "type": "weapon",
+          "statBonus": 3,
+          "description": "A powerful blade that increases attack by 3",
+          "emoji": "⚔️",
+          "quantity": 1
+        },
+        {
+          "name": "Chain Mail",
+          "type": "armor",
+          "statBonus": 2,
+          "description": "Strong armor that increases defense by 2",
+          "emoji": "🛡️",
+          "quantity": 1
+        }
+      ],
+      "lastAdventureTime": 1760557202394,
+      "gymBadges": [],
+      "dailyUsage": {
+        "catchCount": 10,
+        "challengeCount": 2,
+        "adventureCount": 9,
+        "lastResetDate": "2025-10-15T16:31:20.440Z"
+      },
+      "lockedCreatureId": "ead7681b-27e3-44f4-9427-76a520d2d7dc"
+    },
+    "844112272917397505": {
+      "userId": "844112272917397505",
+      "creatures": [
+        {
+          "id": "7b7f3cde-7a3e-4815-b8cd-59075faf6cf7",
+          "name": "ember",
+          "level": 1,
+          "stats": {
+            "hp": 90,
+            "maxHp": 90,
+            "attack": 90,
+            "defense": 75
+          },
+          "rarity": "rare",
+          "caughtAt": "2025-10-10T08:32:29.214Z",
+          "experience": 0
+        }
+      ],
+      "totalCaught": 4,
+      "totalBattles": 0,
+      "totalWins": 0,
+      "adventureItems": [],
+      "lastAdventureTime": 1760098898926,
+      "gymBadges": [],
+      "dailyUsage": {
+        "catchCount": 10,
+        "challengeCount": 0,
+        "adventureCount": 0,
+        "lastResetDate": "2025-10-10T08:27:49.726Z"
+      }
+    },
+    "839442173929717760": {
+      "userId": "839442173929717760",
+      "creatures": [
+        {
+          "id": "eee80c9f-6b0b-4628-87f2-2178cfde599f",
+          "name": "gizmo",
+          "level": 1,
+          "stats": {
+            "hp": 90,
+            "maxHp": 90,
+            "attack": 90,
+            "defense": 75
+          },
+          "rarity": "rare",
+          "caughtAt": "2025-10-09T12:44:30.088Z",
+          "experience": 0
+        },
+        {
+          "id": "94ac82c2-202d-48bb-8586-82ab18159706",
+          "name": "molten",
+          "level": 1,
+          "stats": {
+            "hp": 90,
+            "maxHp": 90,
+            "attack": 90,
+            "defense": 75
+          },
+          "rarity": "rare",
+          "caughtAt": "2025-10-15T18:15:29.176Z",
+          "experience": 0
+        }
+      ],
+      "totalCaught": 11,
+      "totalBattles": 2,
+      "totalWins": 2,
+      "adventureItems": [
+        {
+          "name": "Rusty Sword",
+          "type": "weapon",
+          "statBonus": 1,
+          "description": "An old sword that increases attack by 1",
+          "emoji": "⚔️",
+          "quantity": 1
+        },
+        {
+          "name": "Health Potion",
+          "type": "food",
+          "statBonus": 10,
+          "description": "A basic healing potion that restores 10 HP",
+          "emoji": "🧪",
+          "quantity": 1
+        },
+        {
+          "name": "Chain Mail",
+          "type": "armor",
+          "statBonus": 2,
+          "description": "Strong armor that increases defense by 2",
+          "emoji": "🛡️",
+          "quantity": 1
+        },
+        {
+          "name": "Iron Dagger",
+          "type": "weapon",
+          "statBonus": 2,
+          "description": "A sharp dagger that increases attack by 2",
+          "emoji": "🗡️",
+          "quantity": 1
+        },
+        {
+          "name": "Leather Armor",
+          "type": "armor",
+          "statBonus": 1,
+          "description": "Basic armor that increases defense by 1",
+          "emoji": "🛡️",
+          "quantity": 1
+        }
+      ],
+      "lastAdventureTime": 1760552503931,
+      "gymBadges": [],
+      "dailyUsage": {
+        "catchCount": 10,
+        "challengeCount": 0,
+        "adventureCount": 10,
+        "lastResetDate": "2025-10-15T16:38:48.255Z"
+      }
+    },
+    "234374190826782721": {
+      "userId": "234374190826782721",
+      "creatures": [
+        {
+          "id": "5fda6da8-3448-4dd7-92da-9231a8f7be9d",
+          "name": "mack",
+          "level": 1,
+          "stats": {
+            "hp": 45,
+            "maxHp": 45,
+            "attack": 50,
+            "defense": 35
+          },
+          "rarity": "common",
+          "caughtAt": "2025-10-08T22:15:34.963Z",
+          "experience": 0
+        },
+        {
+          "id": "fe203ff2-a049-41d8-a56b-b1588bd57b7d",
+          "name": "polar",
+          "level": 1,
+          "stats": {
+            "hp": 120,
+            "maxHp": 120,
+            "attack": 100,
+            "defense": 110
+          },
+          "rarity": "epic",
+          "caughtAt": "2025-10-08T22:15:55.567Z",
+          "experience": 0
+        }
+      ],
+      "totalCaught": 2,
+      "totalBattles": 0,
+      "totalWins": 0,
+      "adventureItems": [],
+      "lastAdventureTime": 0,
+      "gymBadges": [],
+      "dailyUsage": {
+        "catchCount": 10,
+        "challengeCount": 0,
+        "adventureCount": 0,
+        "lastResetDate": "2025-10-08T22:15:08.810Z"
+      }
+    },
+    "897520297094295652": {
+      "userId": "897520297094295652",
+      "creatures": [
+        {
+          "id": "4598079f-6a0a-4ecf-94e4-60e0bc33d794",
+          "name": "gilly",
+          "level": 1,
+          "stats": {
+            "hp": 70,
+            "maxHp": 70,
+            "attack": 70,
+            "defense": 55
+          },
+          "rarity": "uncommon",
+          "caughtAt": "2025-10-09T03:58:01.808Z",
+          "experience": 0
+        },
+        {
+          "id": "b220c1ee-a17c-43e6-9ba5-44aa30693488",
+          "name": "ember",
+          "level": 1,
+          "stats": {
+            "hp": 70,
+            "maxHp": 70,
+            "attack": 70,
+            "defense": 55
+          },
+          "rarity": "uncommon",
+          "caughtAt": "2025-10-09T17:13:02.679Z",
+          "experience": 0
+        },
+        {
+          "id": "bef2ed77-52cf-4b39-b0e2-a51c80993ebd",
+          "name": "molten",
+          "level": 1,
+          "stats": {
+            "hp": 70,
+            "maxHp": 70,
+            "attack": 70,
+            "defense": 55
+          },
+          "rarity": "uncommon",
+          "caughtAt": "2025-10-09T17:13:22.468Z",
+          "experience": 0
+        }
+      ],
+      "totalCaught": 4,
+      "totalBattles": 0,
+      "totalWins": 0,
+      "adventureItems": [],
+      "lastAdventureTime": 1760029975998,
+      "gymBadges": [],
+      "dailyUsage": {
+        "catchCount": 2,
+        "challengeCount": 0,
+        "adventureCount": 0,
+        "lastResetDate": "2025-10-09T17:12:56.002Z"
+      }
+    },
+    "306456373871378434": {
+      "userId": "306456373871378434",
+      "creatures": [
+        {
+          "id": "26be2b7a-d513-4a94-8fcb-3aa5057ffc80",
+          "name": "zap",
+          "level": 1,
+          "stats": {
+            "hp": 75,
+            "maxHp": 75,
+            "attack": 60,
+            "defense": 65
+          },
+          "rarity": "uncommon",
+          "caughtAt": "2025-10-10T12:02:40.113Z",
+          "experience": 0
+        },
+        {
+          "id": "6b82ab45-327f-4d4e-9bd3-edcc9442d4f9",
+          "name": "samurai",
+          "level": 1,
+          "stats": {
+            "hp": 70,
+            "maxHp": 70,
+            "attack": 70,
+            "defense": 55
+          },
+          "rarity": "uncommon",
+          "caughtAt": "2025-10-10T12:02:51.252Z",
+          "experience": 0
+        }
+      ],
+      "totalCaught": 3,
+      "totalBattles": 0,
+      "totalWins": 0,
+      "adventureItems": [
+        {
+          "name": "Greater Health Potion",
+          "type": "food",
+          "statBonus": 15,
+          "description": "A powerful healing potion that restores 15 HP",
+          "emoji": "🍯",
+          "quantity": 1
+        }
+      ],
+      "lastAdventureTime": 1760546008735,
+      "gymBadges": [],
+      "dailyUsage": {
+        "catchCount": 10,
+        "challengeCount": 0,
+        "adventureCount": 2,
+        "lastResetDate": "2025-10-15T16:31:22.745Z"
+      }
+    },
+    "886364497743327292": {
+      "userId": "886364497743327292",
+      "creatures": [],
+      "totalCaught": 0,
+      "totalBattles": 0,
+      "totalWins": 0,
+      "adventureItems": [],
+      "lastAdventureTime": 0,
+      "gymBadges": [],
+      "dailyUsage": {
+        "catchCount": 0,
+        "challengeCount": 0,
+        "adventureCount": 0,
+        "lastResetDate": "2025-10-09"
+      }
+    },
+    "1190679793772003532": {
+      "userId": "1190679793772003532",
+      "creatures": [
+        {
+          "id": "ff03969f-d86c-448e-b426-1a466f0bf6a7",
+          "name": "skittles",
+          "level": 1,
+          "stats": {
+            "hp": 70,
+            "maxHp": 70,
+            "attack": 70,
+            "defense": 55
+          },
+          "rarity": "uncommon",
+          "caughtAt": "2025-10-09T15:26:17.805Z",
+          "experience": 0
+        },
+        {
+          "id": "06aaac68-4dbb-4f28-93b6-9824fad702c7",
+          "name": "zap",
+          "level": 1,
+          "stats": {
+            "hp": 75,
+            "maxHp": 75,
+            "attack": 60,
+            "defense": 65
+          },
+          "rarity": "uncommon",
+          "caughtAt": "2025-10-09T15:31:01.110Z",
+          "experience": 0
+        },
+        {
+          "id": "ecd3571e-f51a-4703-99e3-aa719406c896",
+          "name": "skelly",
+          "level": 1,
+          "stats": {
+            "hp": 50,
+            "maxHp": 50,
+            "attack": 50,
+            "defense": 35
+          },
+          "rarity": "common",
+          "caughtAt": "2025-10-09T15:31:11.522Z",
+          "experience": 0
+        }
+      ],
+      "totalCaught": 3,
+      "totalBattles": 0,
+      "totalWins": 0,
+      "adventureItems": [],
+      "lastAdventureTime": 0,
+      "gymBadges": [],
+      "dailyUsage": {
+        "catchCount": 10,
+        "challengeCount": 0,
+        "adventureCount": 0,
+        "lastResetDate": "2025-10-09T15:26:09.796Z"
+      }
+    },
+    "639976592826826752": {
+      "userId": "639976592826826752",
+      "creatures": [],
+      "totalCaught": 0,
+      "totalBattles": 0,
+      "totalWins": 0,
+      "adventureItems": [],
+      "lastAdventureTime": 0,
+      "gymBadges": [],
+      "dailyUsage": {
+        "catchCount": 0,
+        "challengeCount": 0,
+        "adventureCount": 0,
+        "lastResetDate": "2025-10-09"
+      }
+    },
+    "872194316112638022": {
+      "userId": "872194316112638022",
+      "creatures": [
+        {
+          "id": "91bccae7-c9ef-4441-8b2c-048bd58111ab",
+          "name": "zap",
+          "level": 2,
+          "stats": {
+            "hp": 49,
+            "maxHp": 120,
+            "attack": 100,
+            "defense": 111
+          },
+          "rarity": "epic",
+          "caughtAt": "2025-10-13T14:22:03.879Z",
+          "experience": 0
+        },
+        {
+          "id": "f7ac42d0-6f83-4f37-9501-519e3ebeb27a",
+          "name": "armstrong",
+          "level": 1,
+          "stats": {
+            "hp": 65,
+            "maxHp": 65,
+            "attack": 70,
+            "defense": 55
+          },
+          "rarity": "uncommon",
+          "caughtAt": "2025-10-15T00:07:35.594Z",
+          "experience": 0
+        },
+        {
+          "id": "9dc57a21-adbd-47fd-bc41-10ad50e56a92",
+          "name": "tanky",
+          "level": 1,
+          "stats": {
+            "hp": 70,
+            "maxHp": 70,
+            "attack": 70,
+            "defense": 55
+          },
+          "rarity": "uncommon",
+          "caughtAt": "2025-10-15T00:08:00.167Z",
+          "experience": 0
+        }
+      ],
+      "totalCaught": 17,
+      "totalBattles": 5,
+      "totalWins": 2,
+      "adventureItems": [],
+      "lastAdventureTime": 1760487609476,
+      "gymBadges": [],
+      "dailyUsage": {
+        "catchCount": 10,
+        "challengeCount": 0,
+        "adventureCount": 10,
+        "lastResetDate": "2025-10-15T00:07:00.191Z"
+      },
+      "lockedCreatureId": "91bccae7-c9ef-4441-8b2c-048bd58111ab"
+    },
+    "826111316762034186": {
+      "userId": "826111316762034186",
+      "creatures": [
+        {
+          "id": "87f482f9-82f9-4f84-bea0-fbe996d5c433",
+          "name": "armstrong",
+          "level": 1,
+          "stats": {
+            "hp": 65,
+            "maxHp": 65,
+            "attack": 70,
+            "defense": 55
+          },
+          "rarity": "uncommon",
+          "caughtAt": "2025-10-14T15:46:46.293Z",
+          "experience": 0
+        },
+        {
+          "id": "9b70cb0e-4fcc-4354-8489-f532f82b01db",
+          "name": "yum yum",
+          "level": 1,
+          "stats": {
+            "hp": 55,
+            "maxHp": 55,
+            "attack": 40,
+            "defense": 45
+          },
+          "rarity": "common",
+          "caughtAt": "2025-10-14T15:46:58.272Z",
+          "experience": 0
+        },
+        {
+          "id": "a4b1ae88-a39f-4c6d-b2ef-2d6a52fdcb31",
+          "name": "gilly",
+          "level": 1,
+          "stats": {
+            "hp": 70,
+            "maxHp": 70,
+            "attack": 70,
+            "defense": 55
+          },
+          "rarity": "uncommon",
+          "caughtAt": "2025-10-14T15:47:23.179Z",
+          "experience": 0
+        }
+      ],
+      "totalCaught": 9,
+      "totalBattles": 1,
+      "totalWins": 1,
+      "adventureItems": [
+        {
+          "name": "Rusty Sword",
+          "type": "weapon",
+          "statBonus": 1,
+          "description": "An old sword that increases attack by 1",
+          "emoji": "⚔️",
+          "quantity": 1
+        }
+      ],
+      "lastAdventureTime": 1760456892726,
+      "gymBadges": [],
+      "dailyUsage": {
+        "catchCount": 10,
+        "challengeCount": 0,
+        "adventureCount": 0,
+        "lastResetDate": "2025-10-15T17:04:35.240Z"
+      }
+    },
+    "293145222710427649": {
+      "userId": "293145222710427649",
+      "creatures": [
+        {
+          "id": "350cb1c7-cde1-4b31-a253-931a8b5c6b62",
+          "name": "polar",
+          "level": 10,
+          "stats": {
+            "hp": 126,
+            "maxHp": 150,
+            "attack": 131,
+            "defense": 146
+          },
+          "rarity": "legendary",
+          "caughtAt": "2025-10-12T12:07:12.790Z",
+          "experience": 0
+        },
+        {
+          "id": "979e669c-4f4e-47ba-b10f-126f4e15abf6",
+          "name": "zap",
+          "level": 1,
+          "stats": {
+            "hp": 120,
+            "maxHp": 120,
+            "attack": 100,
+            "defense": 110
+          },
+          "rarity": "epic",
+          "caughtAt": "2025-10-15T02:42:50.512Z",
+          "experience": 0
+        },
+        {
+          "id": "46206a4e-770c-46a5-827c-729e685a8ea2",
+          "name": "gizmo",
+          "level": 1,
+          "stats": {
+            "hp": 70,
+            "maxHp": 70,
+            "attack": 70,
+            "defense": 55
+          },
+          "rarity": "uncommon",
+          "caughtAt": "2025-10-14T21:44:56.030Z",
+          "experience": 0
+        }
+      ],
+      "totalCaught": 12,
+      "totalBattles": 9,
+      "totalWins": 9,
+      "adventureItems": [],
+      "lastAdventureTime": 1760561592649,
+      "gymBadges": [],
+      "dailyUsage": {
+        "catchCount": 1,
+        "challengeCount": 3,
+        "adventureCount": 10,
+        "lastResetDate": "2025-10-15T17:12:41.266Z"
+      },
+      "lockedCreatureId": "350cb1c7-cde1-4b31-a253-931a8b5c6b62"
+    },
+    "231018596099162112": {
+      "userId": "231018596099162112",
+      "creatures": [
+        {
+          "id": "a4e87bcf-2795-4b0c-b902-b705e9cfaf05",
+          "name": "molten",
+          "level": 1,
+          "stats": {
+            "hp": 90,
+            "maxHp": 90,
+            "attack": 90,
+            "defense": 75
+          },
+          "rarity": "rare",
+          "caughtAt": "2025-10-12T11:55:33.231Z",
+          "experience": 0
+        },
+        {
+          "id": "c35a5a5c-f19f-41d2-9d65-fd38c0667b80",
+          "name": "aero",
+          "level": 1,
+          "stats": {
+            "hp": 65,
+            "maxHp": 65,
+            "attack": 70,
+            "defense": 55
+          },
+          "rarity": "uncommon",
+          "caughtAt": "2025-10-12T11:55:08.929Z",
+          "experience": 0
+        },
+        {
+          "id": "837ae152-04b0-4433-b061-0a095044835a",
+          "name": "molten",
+          "level": 1,
+          "stats": {
+            "hp": 90,
+            "maxHp": 90,
+            "attack": 90,
+            "defense": 75
+          },
+          "rarity": "rare",
+          "caughtAt": "2025-10-12T11:55:13.427Z",
+          "experience": 0
+        }
+      ],
+      "totalCaught": 4,
+      "totalBattles": 0,
+      "totalWins": 0,
+      "adventureItems": [],
+      "lastAdventureTime": 1760271926726,
+      "gymBadges": [],
+      "dailyUsage": {
+        "catchCount": 0,
+        "challengeCount": 0,
+        "adventureCount": 0,
+        "lastResetDate": "2025-10-12T12:25:26.728Z"
+      }
+    },
+    "555619629125337098": {
+      "userId": "555619629125337098",
+      "creatures": [
+        {
+          "id": "adf60e9f-dec5-4d48-a756-1e622a999544",
+          "name": "gilly",
+          "level": 1,
+          "stats": {
+            "hp": 70,
+            "maxHp": 70,
+            "attack": 70,
+            "defense": 55
+          },
+          "rarity": "uncommon",
+          "caughtAt": "2025-10-12T14:02:32.579Z",
+          "experience": 0
+        }
+      ],
+      "totalCaught": 1,
+      "totalBattles": 0,
+      "totalWins": 0,
+      "adventureItems": [],
+      "lastAdventureTime": 0,
+      "gymBadges": [],
+      "dailyUsage": {
+        "catchCount": 1,
+        "challengeCount": 0,
+        "adventureCount": 0,
+        "lastResetDate": "2025-10-12T14:02:32.576Z"
+      }
+    },
+    "425874232279433226": {
+      "userId": "425874232279433226",
+      "creatures": [
+        {
+          "id": "c84e61f9-9500-4666-8834-ef85c69ffa6d",
+          "name": "medusa",
+          "level": 1,
+          "stats": {
+            "hp": 45,
+            "maxHp": 45,
+            "attack": 50,
+            "defense": 35
+          },
+          "rarity": "common",
+          "caughtAt": "2025-10-13T10:17:05.350Z",
+          "experience": 0
+        },
+        {
+          "id": "126ab726-ba8f-471f-aa5a-0f5e36197e37",
+          "name": "byron",
+          "level": 1,
+          "stats": {
+            "hp": 55,
+            "maxHp": 55,
+            "attack": 40,
+            "defense": 45
+          },
+          "rarity": "common",
+          "caughtAt": "2025-10-13T10:19:10.279Z",
+          "experience": 0
+        }
+      ],
+      "totalCaught": 3,
+      "totalBattles": 1,
+      "totalWins": 0,
+      "adventureItems": [],
+      "lastAdventureTime": 1760351551143,
+      "gymBadges": [],
+      "dailyUsage": {
+        "catchCount": 10,
+        "challengeCount": 1,
+        "adventureCount": 0,
+        "lastResetDate": "2025-10-13"
+      }
+    },
+    "796148469550153739": {
+      "userId": "796148469550153739",
+      "creatures": [
+        {
+          "id": "8cd80848-40fb-4419-ae96-3a60268e1fc6",
+          "name": "zap",
+          "level": 1,
+          "stats": {
+            "hp": 120,
+            "maxHp": 120,
+            "attack": 100,
+            "defense": 110
+          },
+          "rarity": "epic",
+          "caughtAt": "2025-10-14T17:42:25.035Z",
+          "experience": 0
+        }
+      ],
+      "totalCaught": 1,
+      "totalBattles": 0,
+      "totalWins": 0,
+      "adventureItems": [],
+      "lastAdventureTime": 0,
+      "gymBadges": [],
+      "dailyUsage": {
+        "catchCount": 1,
+        "challengeCount": 0,
+        "adventureCount": 0,
+        "lastResetDate": "2025-10-14T17:42:25.032Z"
+      }
+    }
+  },
+  "activeGym": null,
+  "gymBattles": {},
+  "gymBattleResults": {},
+  "gymParticipants": {},
+  "userGymStats": {},
+  "challenges": {},
+  "pendingCreatures": {},
+  "activeBoss": null,
+  "userBossStats": {
+    "410662767981232128": {
+      "userId": "410662767981232128",
+      "dailyAttacks": 0,
+      "lastAttackTime": 0,
+      "lastResetDate": "2025-10-14"
+    },
+    "806696847552938015": {
+      "userId": "806696847552938015",
+      "dailyAttacks": 4,
+      "lastAttackTime": 1760271874315,
+      "lastResetDate": "2025-10-12"
+    },
+    "884982836233371708": {
+      "userId": "884982836233371708",
+      "dailyAttacks": 1,
+      "lastAttackTime": 1760427185046,
+      "lastResetDate": "2025-10-14"
+    },
+    "839442173929717760": {
+      "userId": "839442173929717760",
+      "dailyAttacks": 21,
+      "lastAttackTime": 1760039505530,
+      "lastResetDate": "2025-10-09"
+    },
+    "911542495345782794": {
+      "userId": "911542495345782794",
+      "dailyAttacks": 12,
+      "lastAttackTime": 1760428799796,
+      "lastResetDate": "2025-10-14"
+    },
+    "824732071792607265": {
+      "userId": "824732071792607265",
+      "dailyAttacks": 0,
+      "lastAttackTime": 0,
+      "lastResetDate": "2025-10-09"
+    },
+    "346343108629233664": {
+      "userId": "346343108629233664",
+      "dailyAttacks": 6,
+      "lastAttackTime": 1760042282123,
+      "lastResetDate": "2025-10-09"
+    },
+    "872194316112638022": {
+      "userId": "872194316112638022",
+      "dailyAttacks": 16,
+      "lastAttackTime": 1760027517963,
+      "lastResetDate": "2025-10-09"
+    },
+    "829151836186869810": {
+      "userId": "829151836186869810",
+      "dailyAttacks": 1,
+      "lastAttackTime": 1760027776747,
+      "lastResetDate": "2025-10-09"
+    },
+    "923586222964736000": {
+      "userId": "923586222964736000",
+      "dailyAttacks": 2,
+      "lastAttackTime": 1760029891120,
+      "lastResetDate": "2025-10-09"
+    },
+    "897520297094295652": {
+      "userId": "897520297094295652",
+      "dailyAttacks": 1,
+      "lastAttackTime": 1760029996223,
+      "lastResetDate": "2025-10-09"
+    },
+    "826111316762034186": {
+      "userId": "826111316762034186",
+      "dailyAttacks": 5,
+      "lastAttackTime": 1760077750491,
+      "lastResetDate": "2025-10-10"
+    },
+    "844112272917397505": {
+      "userId": "844112272917397505",
+      "dailyAttacks": 2,
+      "lastAttackTime": 1760085193138,
+      "lastResetDate": "2025-10-10"
+    },
+    "231018596099162112": {
+      "userId": "231018596099162112",
+      "dailyAttacks": 4,
+      "lastAttackTime": 1760270472604,
+      "lastResetDate": "2025-10-12"
+    },
+    "293145222710427649": {
+      "userId": "293145222710427649",
+      "dailyAttacks": 1,
+      "lastAttackTime": 1760428209051,
+      "lastResetDate": "2025-10-14"
+    }
+  },
+  "bossBattles": {
+    "aba753ca-390c-4322-95ea-7cd043ddee2c": {
+      "bossId": "boss_1760010224065_ex6pnn093",
+      "attackerId": "806696847552938015",
+      "creatureId": "fc35e16d-4ad0-409a-bc72-075dd8743a55",
+      "timestamp": 1760012946879,
+      "damageDealt": 15,
+      "creatureDied": false
+    },
+    "b0144481-87c5-45cd-8ac7-497a305a167c": {
+      "bossId": "boss_1760010224065_ex6pnn093",
+      "attackerId": "806696847552938015",
+      "creatureId": "fc35e16d-4ad0-409a-bc72-075dd8743a55",
+      "timestamp": 1760012979466,
+      "damageDealt": 13,
+      "creatureDied": false
+    },
+    "e5aa831b-072c-4151-8185-b51d675c6113": {
+      "bossId": "boss_1760010224065_ex6pnn093",
+      "attackerId": "806696847552938015",
+      "creatureId": "fc35e16d-4ad0-409a-bc72-075dd8743a55",
+      "timestamp": 1760013015880,
+      "damageDealt": 15,
+      "creatureDied": false
+    },
+    "d4c44fb0-ff2d-467e-b6e0-40b4cad40d0c": {
+      "bossId": "boss_1760010224065_ex6pnn093",
+      "attackerId": "884982836233371708",
+      "creatureId": "bbc1f59f-ff7f-4a3f-8354-a97ba7429118",
+      "timestamp": 1760013237775,
+      "damageDealt": 1,
+      "creatureDied": false
+    },
+    "aa52f8fe-03cf-4a4d-befc-00e81edbd61c": {
+      "bossId": "boss_1760010224065_ex6pnn093",
+      "attackerId": "806696847552938015",
+      "creatureId": "fc35e16d-4ad0-409a-bc72-075dd8743a55",
+      "timestamp": 1760013248631,
+      "damageDealt": 21,
+      "creatureDied": true
+    },
+    "0598dea7-a657-464a-924f-b5a23c328dc6": {
+      "bossId": "boss_1760010224065_ex6pnn093",
+      "attackerId": "806696847552938015",
+      "creatureId": "27f045e1-3520-4dfa-85e9-18bec002c6b7",
+      "timestamp": 1760013330095,
+      "damageDealt": 1,
+      "creatureDied": false
+    },
+    "45a70556-c361-48ef-8efc-31eea82c0af9": {
+      "bossId": "boss_1760010224065_ex6pnn093",
+      "attackerId": "884982836233371708",
+      "creatureId": "19b6b689-ca01-484c-951a-454662132a61",
+      "timestamp": 1760013358688,
+      "damageDealt": 4,
+      "creatureDied": false
+    },
+    "94f754c9-f0f2-41f4-9d16-380e4ef06949": {
+      "bossId": "boss_1760010224065_ex6pnn093",
+      "attackerId": "806696847552938015",
+      "creatureId": "fe336bcd-ff2c-4807-867f-a94251e18dee",
+      "timestamp": 1760013363786,
+      "damageDealt": 1,
+      "creatureDied": false
+    },
+    "5761e408-48f3-4737-a3e7-81f26bec6357": {
+      "bossId": "boss_1760010224065_ex6pnn093",
+      "attackerId": "806696847552938015",
+      "creatureId": "fe336bcd-ff2c-4807-867f-a94251e18dee",
+      "timestamp": 1760013411313,
+      "damageDealt": 1,
+      "creatureDied": false
+    },
+    "1594c79a-9feb-4124-aaf8-fe04a10bae0e": {
+      "bossId": "boss_1760010224065_ex6pnn093",
+      "attackerId": "806696847552938015",
+      "creatureId": "27f045e1-3520-4dfa-85e9-18bec002c6b7",
+      "timestamp": 1760013416468,
+      "damageDealt": 1,
+      "creatureDied": false
+    },
+    "a01bd97a-71e3-4537-8424-14e6d8fece44": {
+      "bossId": "boss_1760010224065_ex6pnn093",
+      "attackerId": "884982836233371708",
+      "creatureId": "bbc1f59f-ff7f-4a3f-8354-a97ba7429118",
+      "timestamp": 1760013456707,
+      "damageDealt": 1,
+      "creatureDied": false
+    },
+    "db196091-b1f8-4efa-9b84-02ab4d1b9630": {
+      "bossId": "boss_1760010224065_ex6pnn093",
+      "attackerId": "806696847552938015",
+      "creatureId": "27f045e1-3520-4dfa-85e9-18bec002c6b7",
+      "timestamp": 1760013478607,
+      "damageDealt": 1,
+      "creatureDied": false
+    },
+    "978348da-cca6-4c60-ab7a-d805039c0393": {
+      "bossId": "boss_1760010224065_ex6pnn093",
+      "attackerId": "806696847552938015",
+      "creatureId": "fe336bcd-ff2c-4807-867f-a94251e18dee",
+      "timestamp": 1760013481724,
+      "damageDealt": 1,
+      "creatureDied": false
+    },
+    "629367f2-7419-47d8-8f9f-957af2f599fa": {
+      "bossId": "boss_1760010224065_ex6pnn093",
+      "attackerId": "806696847552938015",
+      "creatureId": "27f045e1-3520-4dfa-85e9-18bec002c6b7",
+      "timestamp": 1760013539910,
+      "damageDealt": 1,
+      "creatureDied": false
+    },
+    "d6c192fe-e83f-44d2-906e-1df457e9703b": {
+      "bossId": "boss_1760010224065_ex6pnn093",
+      "attackerId": "806696847552938015",
+      "creatureId": "fe336bcd-ff2c-4807-867f-a94251e18dee",
+      "timestamp": 1760013541421,
+      "damageDealt": 1,
+      "creatureDied": false
+    },
+    "c1111ed1-ab89-4761-9e52-63487acbd9de": {
+      "bossId": "boss_1760010224065_ex6pnn093",
+      "attackerId": "839442173929717760",
+      "creatureId": "b5e3f70e-faa6-43f3-804a-af1d5f6750cb",
+      "timestamp": 1760013840113,
+      "damageDealt": 1,
+      "creatureDied": true
+    },
+    "4aad0e52-fde0-4a06-a142-2470174162e1": {
+      "bossId": "boss_1760010224065_ex6pnn093",
+      "attackerId": "806696847552938015",
+      "creatureId": "27f045e1-3520-4dfa-85e9-18bec002c6b7",
+      "timestamp": 1760013845832,
+      "damageDealt": 1,
+      "creatureDied": false
+    },
+    "b14f94e4-8077-4f42-8c7f-7efe80f233d7": {
+      "bossId": "boss_1760010224065_ex6pnn093",
+      "attackerId": "806696847552938015",
+      "creatureId": "fe336bcd-ff2c-4807-867f-a94251e18dee",
+      "timestamp": 1760013849519,
+      "damageDealt": 1,
+      "creatureDied": false
+    },
+    "671ff9ca-dc20-4a53-b603-9351ca10784a": {
+      "bossId": "boss_1760010224065_ex6pnn093",
+      "attackerId": "839442173929717760",
+      "creatureId": "051ddb08-f942-4921-bb35-8225071a9794",
+      "timestamp": 1760013935996,
+      "damageDealt": 12,
+      "creatureDied": false
+    },
+    "30567960-1ee1-40cb-8395-6224eb6b39f3": {
+      "bossId": "boss_1760010224065_ex6pnn093",
+      "attackerId": "839442173929717760",
+      "creatureId": "c0ab4600-dccc-4842-933f-ab7eae5ef698",
+      "timestamp": 1760014031246,
+      "damageDealt": 1,
+      "creatureDied": false
+    },
+    "7d33d2bd-a313-4aaa-bb0a-08b3386c9a3b": {
+      "bossId": "boss_1760010224065_ex6pnn093",
+      "attackerId": "839442173929717760",
+      "creatureId": "c0ab4600-dccc-4842-933f-ab7eae5ef698",
+      "timestamp": 1760014071081,
+      "damageDealt": 1,
+      "creatureDied": false
+    },
+    "01f336c3-ffcb-4b43-8309-bbf03a88573c": {
+      "bossId": "boss_1760010224065_ex6pnn093",
+      "attackerId": "839442173929717760",
+      "creatureId": "051ddb08-f942-4921-bb35-8225071a9794",
+      "timestamp": 1760014127331,
+      "damageDealt": 11,
+      "creatureDied": false
+    },
+    "4c4d3a69-880e-4632-b8b1-3e7dc68d5d30": {
+      "bossId": "boss_1760010224065_ex6pnn093",
+      "attackerId": "911542495345782794",
+      "creatureId": "d452e879-974b-439f-9023-30b10320fa86",
+      "timestamp": 1760021871331,
+      "damageDealt": 1,
+      "creatureDied": false
+    },
+    "0c194d4e-eada-408a-ba9c-1d3a81f75f80": {
+      "bossId": "boss_1760010224065_ex6pnn093",
+      "attackerId": "911542495345782794",
+      "creatureId": "5f8c360e-365a-434d-bda6-ff08823e1b07",
+      "timestamp": 1760021880452,
+      "damageDealt": 1,
+      "creatureDied": true
+    },
+    "d9072d78-3796-469f-b6ea-ed3c88198913": {
+      "bossId": "boss_1760010224065_ex6pnn093",
+      "attackerId": "410662767981232128",
+      "creatureId": "efeb9309-3528-43ba-9143-3ee86b9c05c9",
+      "timestamp": 1760023017684,
+      "damageDealt": 14,
+      "creatureDied": false
+    },
+    "7e434734-ce4b-4c14-9760-0e70dacf97a9": {
+      "bossId": "boss_1760010224065_ex6pnn093",
+      "attackerId": "806696847552938015",
+      "creatureId": "27f045e1-3520-4dfa-85e9-18bec002c6b7",
+      "timestamp": 1760024562455,
+      "damageDealt": 1,
+      "creatureDied": false
+    },
+    "191d540c-f728-456f-893d-3b3f0d5663ff": {
+      "bossId": "boss_1760010224065_ex6pnn093",
+      "attackerId": "806696847552938015",
+      "creatureId": "fe336bcd-ff2c-4807-867f-a94251e18dee",
+      "timestamp": 1760024565157,
+      "damageDealt": 1,
+      "creatureDied": false
+    },
+    "cf8dc191-d264-4967-8baa-56c81f07259f": {
+      "bossId": "boss_1760010224065_ex6pnn093",
+      "attackerId": "346343108629233664",
+      "creatureId": "f9b4f02c-4326-454a-90cb-394596d07273",
+      "timestamp": 1760025931227,
+      "damageDealt": 14,
+      "creatureDied": false
+    },
+    "38ac75ec-821a-4240-95bb-76ab2cc47598": {
+      "bossId": "boss_1760010224065_ex6pnn093",
+      "attackerId": "346343108629233664",
+      "creatureId": "52d2b5c9-5f8e-4298-8062-51b685c988b2",
+      "timestamp": 1760025938505,
+      "damageDealt": 16,
+      "creatureDied": false
+    },
+    "b140bb6a-ed7d-47b1-8f08-89fe1eeadcc8": {
+      "bossId": "boss_1760010224065_ex6pnn093",
+      "attackerId": "346343108629233664",
+      "creatureId": "f0fee2a2-c0cb-459a-b5cc-febecd107ba6",
+      "timestamp": 1760025941118,
+      "damageDealt": 18,
+      "creatureDied": false
+    },
+    "6593b383-768f-4c6d-9161-883edba17a1c": {
+      "bossId": "boss_1760010224065_ex6pnn093",
+      "attackerId": "806696847552938015",
+      "creatureId": "27f045e1-3520-4dfa-85e9-18bec002c6b7",
+      "timestamp": 1760026634502,
+      "damageDealt": 1,
+      "creatureDied": false
+    },
+    "8a8de077-e1ad-46f3-b61c-e29a9ead2a3c": {
+      "bossId": "boss_1760010224065_ex6pnn093",
+      "attackerId": "806696847552938015",
+      "creatureId": "fe336bcd-ff2c-4807-867f-a94251e18dee",
+      "timestamp": 1760026636877,
+      "damageDealt": 1,
+      "creatureDied": false
+    },
+    "9ece9590-d5ae-4b92-8e4c-e4018174ec06": {
+      "bossId": "boss_1760010224065_ex6pnn093",
+      "attackerId": "872194316112638022",
+      "creatureId": "39e53e33-53e8-4ab1-8b75-36365966bbb8",
+      "timestamp": 1760027253741,
+      "damageDealt": 1,
+      "creatureDied": false
+    },
+    "db7d9d97-abd2-49f0-b4f8-60f315e703ac": {
+      "bossId": "boss_1760010224065_ex6pnn093",
+      "attackerId": "872194316112638022",
+      "creatureId": "3fadf748-dcb3-4a67-9feb-1e2b82dece5a",
+      "timestamp": 1760027299882,
+      "damageDealt": 1,
+      "creatureDied": false
+    },
+    "f7a6153f-0a3a-4f74-b25e-b40a353d9db4": {
+      "bossId": "boss_1760010224065_ex6pnn093",
+      "attackerId": "872194316112638022",
+      "creatureId": "39e53e33-53e8-4ab1-8b75-36365966bbb8",
+      "timestamp": 1760027307383,
+      "damageDealt": 1,
+      "creatureDied": false
+    },
+    "9cfaa83a-ccd9-4798-9f36-88c27965f986": {
+      "bossId": "boss_1760010224065_ex6pnn093",
+      "attackerId": "872194316112638022",
+      "creatureId": "1f31ac0e-ecbd-4ec5-a309-3dde63738e45",
+      "timestamp": 1760027311725,
+      "damageDealt": 1,
+      "creatureDied": false
+    },
+    "3a4f0c50-7321-4b3a-a612-70466981b55d": {
+      "bossId": "boss_1760010224065_ex6pnn093",
+      "attackerId": "872194316112638022",
+      "creatureId": "39e53e33-53e8-4ab1-8b75-36365966bbb8",
+      "timestamp": 1760027354136,
+      "damageDealt": 1,
+      "creatureDied": false
+    },
+    "4c85d21a-be4c-4583-8220-298d6442144b": {
+      "bossId": "boss_1760010224065_ex6pnn093",
+      "attackerId": "872194316112638022",
+      "creatureId": "1f31ac0e-ecbd-4ec5-a309-3dde63738e45",
+      "timestamp": 1760027356594,
+      "damageDealt": 1,
+      "creatureDied": false
+    },
+    "6ae64b52-0e87-4292-bbcc-8723345bab70": {
+      "bossId": "boss_1760010224065_ex6pnn093",
+      "attackerId": "872194316112638022",
+      "creatureId": "3fadf748-dcb3-4a67-9feb-1e2b82dece5a",
+      "timestamp": 1760027359709,
+      "damageDealt": 1,
+      "creatureDied": false
+    },
+    "694d5481-c883-44ec-8781-125202d496d0": {
+      "bossId": "boss_1760010224065_ex6pnn093",
+      "attackerId": "872194316112638022",
+      "creatureId": "39e53e33-53e8-4ab1-8b75-36365966bbb8",
+      "timestamp": 1760027362234,
+      "damageDealt": 1,
+      "creatureDied": false
+    },
+    "ef1b56b5-a2fd-42e3-a28a-ce67fe8908a7": {
+      "bossId": "boss_1760010224065_ex6pnn093",
+      "attackerId": "872194316112638022",
+      "creatureId": "39e53e33-53e8-4ab1-8b75-36365966bbb8",
+      "timestamp": 1760027377486,
+      "damageDealt": 1,
+      "creatureDied": false
+    },
+    "badfad89-da94-441b-8b27-ee166766e377": {
+      "bossId": "boss_1760010224065_ex6pnn093",
+      "attackerId": "872194316112638022",
+      "creatureId": "1f31ac0e-ecbd-4ec5-a309-3dde63738e45",
+      "timestamp": 1760027378737,
+      "damageDealt": 1,
+      "creatureDied": false
+    },
+    "5918fcf2-5877-4334-b6ef-6418bdf40574": {
+      "bossId": "boss_1760010224065_ex6pnn093",
+      "attackerId": "872194316112638022",
+      "creatureId": "3fadf748-dcb3-4a67-9feb-1e2b82dece5a",
+      "timestamp": 1760027379932,
+      "damageDealt": 1,
+      "creatureDied": false
+    },
+    "10141631-9cc1-4c8a-9597-5b9176a38cc5": {
+      "bossId": "boss_1760010224065_ex6pnn093",
+      "attackerId": "872194316112638022",
+      "creatureId": "39e53e33-53e8-4ab1-8b75-36365966bbb8",
+      "timestamp": 1760027381818,
+      "damageDealt": 1,
+      "creatureDied": true
+    },
+    "3866567a-2688-442c-b435-08e307b2a0bd": {
+      "bossId": "boss_1760010224065_ex6pnn093",
+      "attackerId": "872194316112638022",
+      "creatureId": "1f31ac0e-ecbd-4ec5-a309-3dde63738e45",
+      "timestamp": 1760027383017,
+      "damageDealt": 1,
+      "creatureDied": false
+    },
+    "4d31932c-e0a6-44fb-bc32-20819b286014": {
+      "bossId": "boss_1760010224065_ex6pnn093",
+      "attackerId": "872194316112638022",
+      "creatureId": "3fadf748-dcb3-4a67-9feb-1e2b82dece5a",
+      "timestamp": 1760027384064,
+      "damageDealt": 1,
+      "creatureDied": false
+    },
+    "ff3a0fa5-d34d-4c49-be54-9849ed5bd4c9": {
+      "bossId": "boss_1760010224065_ex6pnn093",
+      "attackerId": "872194316112638022",
+      "creatureId": "1f31ac0e-ecbd-4ec5-a309-3dde63738e45",
+      "timestamp": 1760027514871,
+      "damageDealt": 47,
+      "creatureDied": false
+    },
+    "de8e2b00-6ea4-449b-b9c7-ea16f25135b5": {
+      "bossId": "boss_1760010224065_ex6pnn093",
+      "attackerId": "872194316112638022",
+      "creatureId": "1f31ac0e-ecbd-4ec5-a309-3dde63738e45",
+      "timestamp": 1760027517963,
+      "damageDealt": 54,
+      "creatureDied": false
+    },
+    "8a9bda2f-cdfe-488d-9512-3109de9ebde8": {
+      "bossId": "boss_1760010224065_ex6pnn093",
+      "attackerId": "410662767981232128",
+      "creatureId": "efeb9309-3528-43ba-9143-3ee86b9c05c9",
+      "timestamp": 1760027715488,
+      "damageDealt": 90,
+      "creatureDied": false
+    },
+    "077ab676-173c-4017-8a61-091480e9cf64": {
+      "bossId": "boss_1760010224065_ex6pnn093",
+      "attackerId": "829151836186869810",
+      "creatureId": "ce82af0c-eb7e-4bc3-a7b8-6c046ac09ba5",
+      "timestamp": 1760027776747,
+      "damageDealt": 50,
+      "creatureDied": false
+    },
+    "dca8a845-d10c-447d-b9d0-5ceaeb36f243": {
+      "bossId": "boss_1760010224065_ex6pnn093",
+      "attackerId": "923586222964736000",
+      "creatureId": "d0e19222-a4ca-4cbc-b5d9-28ea4d41db31",
+      "timestamp": 1760029820638,
+      "damageDealt": 68,
+      "creatureDied": false
+    },
+    "6cfdadd6-9238-4a6a-b71d-2fb4c18689af": {
+      "bossId": "boss_1760010224065_ex6pnn093",
+      "attackerId": "923586222964736000",
+      "creatureId": "d0e19222-a4ca-4cbc-b5d9-28ea4d41db31",
+      "timestamp": 1760029891120,
+      "damageDealt": 65,
+      "creatureDied": true
+    },
+    "6cc33397-71d7-48be-bbc2-1590a16621cb": {
+      "bossId": "boss_1760010224065_ex6pnn093",
+      "attackerId": "897520297094295652",
+      "creatureId": "645bd048-5bff-4b77-a1d5-8aeef81bf3ea",
+      "timestamp": 1760029996223,
+      "damageDealt": 47,
+      "creatureDied": true
+    },
+    "f144c023-cada-4e51-bb74-9654b98de37f": {
+      "bossId": "boss_1760010224065_ex6pnn093",
+      "attackerId": "839442173929717760",
+      "creatureId": "eee80c9f-6b0b-4628-87f2-2178cfde599f",
+      "timestamp": 1760030820314,
+      "damageDealt": 85,
+      "creatureDied": false
+    },
+    "4f10badc-929b-4d76-9dd5-06cc8794732e": {
+      "bossId": "boss_1760010224065_ex6pnn093",
+      "attackerId": "839442173929717760",
+      "creatureId": "eee80c9f-6b0b-4628-87f2-2178cfde599f",
+      "timestamp": 1760030889209,
+      "damageDealt": 87,
+      "creatureDied": false
+    },
+    "e89c1343-393b-4c85-908f-0a031dfe65e4": {
+      "bossId": "boss_1760010224065_ex6pnn093",
+      "attackerId": "839442173929717760",
+      "creatureId": "eee80c9f-6b0b-4628-87f2-2178cfde599f",
+      "timestamp": 1760030944862,
+      "damageDealt": 83,
+      "creatureDied": false
+    },
+    "ac55d876-ca51-49ae-80aa-fa2314911c66": {
+      "bossId": "boss_1760010224065_ex6pnn093",
+      "attackerId": "839442173929717760",
+      "creatureId": "051ddb08-f942-4921-bb35-8225071a9794",
+      "timestamp": 1760031000873,
+      "damageDealt": 88,
+      "creatureDied": false
+    },
+    "b5158817-e587-4c31-b22b-5171d69cdfbb": {
+      "bossId": "boss_1760010224065_ex6pnn093",
+      "attackerId": "839442173929717760",
+      "creatureId": "051ddb08-f942-4921-bb35-8225071a9794",
+      "timestamp": 1760038949831,
+      "damageDealt": 84,
+      "creatureDied": false
+    },
+    "69bb5800-2b81-4a61-9e20-79bcc00b0641": {
+      "bossId": "boss_1760010224065_ex6pnn093",
+      "attackerId": "839442173929717760",
+      "creatureId": "051ddb08-f942-4921-bb35-8225071a9794",
+      "timestamp": 1760039010197,
+      "damageDealt": 87,
+      "creatureDied": false
+    },
+    "982ba2a8-791e-4ca5-be69-6ee4c1caaf27": {
+      "bossId": "boss_1760010224065_ex6pnn093",
+      "attackerId": "839442173929717760",
+      "creatureId": "051ddb08-f942-4921-bb35-8225071a9794",
+      "timestamp": 1760039072064,
+      "damageDealt": 89,
+      "creatureDied": false
+    },
+    "57a7f7c8-9251-4147-99d5-2acfbbaa1281": {
+      "bossId": "boss_1760010224065_ex6pnn093",
+      "attackerId": "839442173929717760",
+      "creatureId": "eee80c9f-6b0b-4628-87f2-2178cfde599f",
+      "timestamp": 1760039110520,
+      "damageDealt": 82,
+      "creatureDied": false
+    },
+    "75ff1c9f-21a1-41f7-80e9-13ece4c6710e": {
+      "bossId": "boss_1760010224065_ex6pnn093",
+      "attackerId": "839442173929717760",
+      "creatureId": "eee80c9f-6b0b-4628-87f2-2178cfde599f",
+      "timestamp": 1760039153836,
+      "damageDealt": 80,
+      "creatureDied": false
+    },
+    "7554af69-dda1-4b66-aa8a-14c1473f53cf": {
+      "bossId": "boss_1760010224065_ex6pnn093",
+      "attackerId": "839442173929717760",
+      "creatureId": "051ddb08-f942-4921-bb35-8225071a9794",
+      "timestamp": 1760039206966,
+      "damageDealt": 88,
+      "creatureDied": false
+    },
+    "d76aa2b7-3f9c-4f1c-a79d-97319b8303f3": {
+      "bossId": "boss_1760010224065_ex6pnn093",
+      "attackerId": "839442173929717760",
+      "creatureId": "051ddb08-f942-4921-bb35-8225071a9794",
+      "timestamp": 1760039260298,
+      "damageDealt": 83,
+      "creatureDied": false
+    },
+    "7de331f4-2b2a-400f-85e4-dc6683acbfc8": {
+      "bossId": "boss_1760010224065_ex6pnn093",
+      "attackerId": "839442173929717760",
+      "creatureId": "051ddb08-f942-4921-bb35-8225071a9794",
+      "timestamp": 1760039355863,
+      "damageDealt": 85,
+      "creatureDied": false
+    },
+    "4b858a62-7d4b-4cf4-b5b7-0f901bd702e6": {
+      "bossId": "boss_1760010224065_ex6pnn093",
+      "attackerId": "839442173929717760",
+      "creatureId": "051ddb08-f942-4921-bb35-8225071a9794",
+      "timestamp": 1760039399968,
+      "damageDealt": 87,
+      "creatureDied": false
+    },
+    "ad0dfca5-d538-4675-937a-d85d338ea520": {
+      "bossId": "boss_1760010224065_ex6pnn093",
+      "attackerId": "839442173929717760",
+      "creatureId": "051ddb08-f942-4921-bb35-8225071a9794",
+      "timestamp": 1760039432648,
+      "damageDealt": 80,
+      "creatureDied": false
+    },
+    "86c1ee4c-72e2-4146-9eed-1b283249a54a": {
+      "bossId": "boss_1760010224065_ex6pnn093",
+      "attackerId": "839442173929717760",
+      "creatureId": "051ddb08-f942-4921-bb35-8225071a9794",
+      "timestamp": 1760039470117,
+      "damageDealt": 83,
+      "creatureDied": false
+    },
+    "0a44950d-781a-4630-8467-22821bde025e": {
+      "bossId": "boss_1760010224065_ex6pnn093",
+      "attackerId": "839442173929717760",
+      "creatureId": "051ddb08-f942-4921-bb35-8225071a9794",
+      "timestamp": 1760039505530,
+      "damageDealt": 89,
+      "creatureDied": false
+    },
+    "d6fa6b8d-0e4e-4574-a723-2443068cb759": {
+      "bossId": "boss_1760040975201_2a16ei967",
+      "attackerId": "346343108629233664",
+      "creatureId": "f9b4f02c-4326-454a-90cb-394596d07273",
+      "timestamp": 1760042275422,
+      "damageDealt": 99,
+      "creatureDied": false
+    },
+    "df9b0c12-52cd-4b7a-9d02-646fdb15a7c7": {
+      "bossId": "boss_1760040975201_2a16ei967",
+      "attackerId": "346343108629233664",
+      "creatureId": "52d2b5c9-5f8e-4298-8062-51b685c988b2",
+      "timestamp": 1760042279247,
+      "damageDealt": 95,
+      "creatureDied": false
+    },
+    "22f6e594-5858-414c-8aa5-f932a919cdd1": {
+      "bossId": "boss_1760040975201_2a16ei967",
+      "attackerId": "346343108629233664",
+      "creatureId": "f0fee2a2-c0cb-459a-b5cc-febecd107ba6",
+      "timestamp": 1760042282123,
+      "damageDealt": 97,
+      "creatureDied": false
+    },
+    "4e07839b-5023-4d4c-81d9-d8a88169430a": {
+      "bossId": "boss_1760040975201_2a16ei967",
+      "attackerId": "806696847552938015",
+      "creatureId": "c37fff43-9106-4c70-8829-0d377594de58",
+      "timestamp": 1760075895633,
+      "damageDealt": 101,
+      "creatureDied": false
+    },
+    "c7f97c5f-cfac-4b66-8537-e9a11aecc52a": {
+      "bossId": "boss_1760040975201_2a16ei967",
+      "attackerId": "806696847552938015",
+      "creatureId": "27f045e1-3520-4dfa-85e9-18bec002c6b7",
+      "timestamp": 1760075898778,
+      "damageDealt": 70,
+      "creatureDied": false
+    },
+    "a6337ae3-e25b-419e-8e35-021812871002": {
+      "bossId": "boss_1760040975201_2a16ei967",
+      "attackerId": "806696847552938015",
+      "creatureId": "fe336bcd-ff2c-4807-867f-a94251e18dee",
+      "timestamp": 1760075901537,
+      "damageDealt": 59,
+      "creatureDied": false
+    },
+    "6ca7b9bb-8ecc-473e-91b6-6e6512d8ad17": {
+      "bossId": "boss_1760040975201_2a16ei967",
+      "attackerId": "806696847552938015",
+      "creatureId": "c37fff43-9106-4c70-8829-0d377594de58",
+      "timestamp": 1760075975374,
+      "damageDealt": 97,
+      "creatureDied": false
+    },
+    "3af8f80b-db95-4db5-84c9-b3e7629ad84f": {
+      "bossId": "boss_1760040975201_2a16ei967",
+      "attackerId": "806696847552938015",
+      "creatureId": "27f045e1-3520-4dfa-85e9-18bec002c6b7",
+      "timestamp": 1760075978299,
+      "damageDealt": 63,
+      "creatureDied": true
+    },
+    "a20a452f-b579-429f-aff4-689ca35ee500": {
+      "bossId": "boss_1760040975201_2a16ei967",
+      "attackerId": "806696847552938015",
+      "creatureId": "fe336bcd-ff2c-4807-867f-a94251e18dee",
+      "timestamp": 1760075979682,
+      "damageDealt": 55,
+      "creatureDied": false
+    },
+    "8cefae4c-42ce-4e50-9e22-28ac91ed7334": {
+      "bossId": "boss_1760040975201_2a16ei967",
+      "attackerId": "806696847552938015",
+      "creatureId": "fe336bcd-ff2c-4807-867f-a94251e18dee",
+      "timestamp": 1760076221485,
+      "damageDealt": 58,
+      "creatureDied": false
+    },
+    "6f6c4b86-87d5-4ed6-b344-1caef4762dd5": {
+      "bossId": "boss_1760040975201_2a16ei967",
+      "attackerId": "806696847552938015",
+      "creatureId": "b45d9d6c-f526-43fd-99fc-0098cc86525c",
+      "timestamp": 1760076226363,
+      "damageDealt": 70,
+      "creatureDied": false
+    },
+    "c4eac59d-0f8a-47e6-8af1-23062f0eb70c": {
+      "bossId": "boss_1760040975201_2a16ei967",
+      "attackerId": "806696847552938015",
+      "creatureId": "c37fff43-9106-4c70-8829-0d377594de58",
+      "timestamp": 1760076234771,
+      "damageDealt": 96,
+      "creatureDied": false
+    },
+    "0102d5c4-e67f-412f-8a60-b3bb922e42ca": {
+      "bossId": "boss_1760040975201_2a16ei967",
+      "attackerId": "806696847552938015",
+      "creatureId": "fe336bcd-ff2c-4807-867f-a94251e18dee",
+      "timestamp": 1760076311500,
+      "damageDealt": 52,
+      "creatureDied": false
+    },
+    "0001f25d-adc3-48f9-98e3-f3e4bfdbafbc": {
+      "bossId": "boss_1760040975201_2a16ei967",
+      "attackerId": "806696847552938015",
+      "creatureId": "b45d9d6c-f526-43fd-99fc-0098cc86525c",
+      "timestamp": 1760076315848,
+      "damageDealt": 70,
+      "creatureDied": false
+    },
+    "358709cb-258c-4c62-a993-0e695913c019": {
+      "bossId": "boss_1760040975201_2a16ei967",
+      "attackerId": "806696847552938015",
+      "creatureId": "c37fff43-9106-4c70-8829-0d377594de58",
+      "timestamp": 1760076322440,
+      "damageDealt": 101,
+      "creatureDied": false
+    },
+    "e5a2a899-099c-46e9-92d2-766e4f09de56": {
+      "bossId": "boss_1760040975201_2a16ei967",
+      "attackerId": "806696847552938015",
+      "creatureId": "fe336bcd-ff2c-4807-867f-a94251e18dee",
+      "timestamp": 1760076385498,
+      "damageDealt": 58,
+      "creatureDied": false
+    },
+    "dfa25556-8b00-49b4-ac78-7ef5ce6da0fc": {
+      "bossId": "boss_1760040975201_2a16ei967",
+      "attackerId": "806696847552938015",
+      "creatureId": "b45d9d6c-f526-43fd-99fc-0098cc86525c",
+      "timestamp": 1760076389861,
+      "damageDealt": 67,
+      "creatureDied": false
+    },
+    "401e9224-ec09-4185-b682-3eb3da3e2d6b": {
+      "bossId": "boss_1760040975201_2a16ei967",
+      "attackerId": "806696847552938015",
+      "creatureId": "c37fff43-9106-4c70-8829-0d377594de58",
+      "timestamp": 1760076394326,
+      "damageDealt": 94,
+      "creatureDied": false
+    },
+    "a4664685-0d1d-44a8-bdcc-dc336544c282": {
+      "bossId": "boss_1760040975201_2a16ei967",
+      "attackerId": "806696847552938015",
+      "creatureId": "fe336bcd-ff2c-4807-867f-a94251e18dee",
+      "timestamp": 1760076438435,
+      "damageDealt": 56,
+      "creatureDied": false
+    },
+    "72650c36-ea9a-4656-8427-72f79ac6c101": {
+      "bossId": "boss_1760077477715_jhq6ccvn0",
+      "attackerId": "826111316762034186",
+      "creatureId": "9dae085a-13f1-4494-9875-e93f03ad4c56",
+      "timestamp": 1760077498557,
+      "damageDealt": 79,
+      "creatureDied": false
+    },
+    "44b25ae1-6321-4562-9dbe-3b3999f7a44f": {
+      "bossId": "boss_1760077477715_jhq6ccvn0",
+      "attackerId": "826111316762034186",
+      "creatureId": "0a0fa747-e14d-4949-ae58-5cac2fd00af9",
+      "timestamp": 1760077555038,
+      "damageDealt": 102,
+      "creatureDied": true
+    },
+    "48542247-59be-4e82-af0c-56ee26b3e01b": {
+      "bossId": "boss_1760077477715_jhq6ccvn0",
+      "attackerId": "826111316762034186",
+      "creatureId": "9dae085a-13f1-4494-9875-e93f03ad4c56",
+      "timestamp": 1760077614883,
+      "damageDealt": 76,
+      "creatureDied": false
+    },
+    "6c1e884d-27f3-4051-9229-9c3e5f76adef": {
+      "bossId": "boss_1760077477715_jhq6ccvn0",
+      "attackerId": "826111316762034186",
+      "creatureId": "9dae085a-13f1-4494-9875-e93f03ad4c56",
+      "timestamp": 1760077674200,
+      "damageDealt": 80,
+      "creatureDied": false
+    },
+    "718115a7-679b-4308-9884-469feedc4ffe": {
+      "bossId": "boss_1760077477715_jhq6ccvn0",
+      "attackerId": "826111316762034186",
+      "creatureId": "62fb124f-60f9-4ca5-a29a-2adcbf158384",
+      "timestamp": 1760077750491,
+      "damageDealt": 61,
+      "creatureDied": false
+    },
+    "128d611d-1afb-4162-9174-bfa2b9a46b4e": {
+      "bossId": "boss_1760077477715_jhq6ccvn0",
+      "attackerId": "911542495345782794",
+      "creatureId": "d58a26e8-dd91-4d1c-a268-31975135f6cf",
+      "timestamp": 1760080514538,
+      "damageDealt": 41,
+      "creatureDied": true
+    },
+    "5ff6d85f-2d66-4f9f-9928-0d096816fba7": {
+      "bossId": "boss_1760077477715_jhq6ccvn0",
+      "attackerId": "911542495345782794",
+      "creatureId": "d452e879-974b-439f-9023-30b10320fa86",
+      "timestamp": 1760084910905,
+      "damageDealt": 64,
+      "creatureDied": false
+    },
+    "4c57f601-94bc-4ac8-9eba-53464736e7b8": {
+      "bossId": "boss_1760077477715_jhq6ccvn0",
+      "attackerId": "844112272917397505",
+      "creatureId": "7302e001-4007-403b-bc4c-0dd21aeddaa0",
+      "timestamp": 1760085119093,
+      "damageDealt": 70,
+      "creatureDied": false
+    },
+    "454c48ec-e7ed-430c-bfb9-460e10edd87c": {
+      "bossId": "boss_1760077477715_jhq6ccvn0",
+      "attackerId": "844112272917397505",
+      "creatureId": "7b7f3cde-7a3e-4815-b8cd-59075faf6cf7",
+      "timestamp": 1760085193138,
+      "damageDealt": 89,
+      "creatureDied": false
+    },
+    "5e15fc03-f775-4e42-b25a-77c2119fa2dd": {
+      "bossId": "boss_1760077477715_jhq6ccvn0",
+      "attackerId": "410662767981232128",
+      "creatureId": "28235ff8-9713-4c4c-b4f4-074d7926624c",
+      "timestamp": 1760087175417,
+      "damageDealt": 82,
+      "creatureDied": false
+    },
+    "7493f27c-e24d-4219-a4ef-996bc67505e1": {
+      "bossId": "boss_1760077477715_jhq6ccvn0",
+      "attackerId": "911542495345782794",
+      "creatureId": "d452e879-974b-439f-9023-30b10320fa86",
+      "timestamp": 1760091259709,
+      "damageDealt": 61,
+      "creatureDied": false
+    },
+    "283d6098-3c8e-494f-9286-b38b1249a79f": {
+      "bossId": "boss_1760077477715_jhq6ccvn0",
+      "attackerId": "884982836233371708",
+      "creatureId": "1719f370-dd27-47fe-b6c0-01cac0fdb793",
+      "timestamp": 1760091600455,
+      "damageDealt": 68,
+      "creatureDied": false
+    },
+    "4668e5dc-6836-4180-841b-bee3d8c95c2b": {
+      "bossId": "boss_1760077477715_jhq6ccvn0",
+      "attackerId": "884982836233371708",
+      "creatureId": "1719f370-dd27-47fe-b6c0-01cac0fdb793",
+      "timestamp": 1760091660857,
+      "damageDealt": 66,
+      "creatureDied": false
+    },
+    "1974885c-af4e-47f5-9ec1-e1bb47df33a7": {
+      "bossId": "boss_1760077477715_jhq6ccvn0",
+      "attackerId": "884982836233371708",
+      "creatureId": "1719f370-dd27-47fe-b6c0-01cac0fdb793",
+      "timestamp": 1760091710016,
+      "damageDealt": 68,
+      "creatureDied": false
+    },
+    "f85a3733-8665-4264-bb73-eda41d7b06d0": {
+      "bossId": "boss_1760077477715_jhq6ccvn0",
+      "attackerId": "884982836233371708",
+      "creatureId": "699072f9-3049-428c-860a-bf20460052fb",
+      "timestamp": 1760091761121,
+      "damageDealt": 70,
+      "creatureDied": true
+    },
+    "6ac7b6ab-1577-48c8-b20e-4a7d00ca61fa": {
+      "bossId": "boss_1760077477715_jhq6ccvn0",
+      "attackerId": "884982836233371708",
+      "creatureId": "b5ea553d-f37f-4bf6-80f6-5eebc8ce1735",
+      "timestamp": 1760091799004,
+      "damageDealt": 33,
+      "creatureDied": true
+    },
+    "199620d8-918b-4602-929e-60614d74036e": {
+      "bossId": "boss_1760077477715_jhq6ccvn0",
+      "attackerId": "884982836233371708",
+      "creatureId": "1719f370-dd27-47fe-b6c0-01cac0fdb793",
+      "timestamp": 1760091835356,
+      "damageDealt": 62,
+      "creatureDied": false
+    },
+    "4d53b6a8-5192-471e-bff6-f959fae6a0c8": {
+      "bossId": "boss_1760077477715_jhq6ccvn0",
+      "attackerId": "884982836233371708",
+      "creatureId": "1719f370-dd27-47fe-b6c0-01cac0fdb793",
+      "timestamp": 1760091880534,
+      "damageDealt": 65,
+      "creatureDied": false
+    },
+    "c8dd5f13-032c-4358-b1b9-3c4d58e6d349": {
+      "bossId": "boss_1760257144919_yih62j9nh",
+      "attackerId": "410662767981232128",
+      "creatureId": "admin-creature-001",
+      "timestamp": 1760261062943,
+      "damageDealt": 4996,
+      "creatureDied": false
+    },
+    "73396716-12b9-44ac-a01e-a22ed0651442": {
+      "bossId": "boss_1760261071836_fny5vt4eh",
+      "attackerId": "911542495345782794",
+      "creatureId": "ae2e0574-5295-4ec2-858d-c4f72361f9fb",
+      "timestamp": 1760261343351,
+      "damageDealt": 68,
+      "creatureDied": false
+    },
+    "82384256-25f2-4aae-bd34-9068775d358f": {
+      "bossId": "boss_1760261071836_fny5vt4eh",
+      "attackerId": "911542495345782794",
+      "creatureId": "ae2e0574-5295-4ec2-858d-c4f72361f9fb",
+      "timestamp": 1760261377700,
+      "damageDealt": 71,
+      "creatureDied": false
+    },
+    "4900ab26-8ca1-4047-8a6e-ffded4410223": {
+      "bossId": "boss_1760261071836_fny5vt4eh",
+      "attackerId": "911542495345782794",
+      "creatureId": "ae2e0574-5295-4ec2-858d-c4f72361f9fb",
+      "timestamp": 1760261382203,
+      "damageDealt": 63,
+      "creatureDied": false
+    },
+    "70d5a965-4bec-4486-9f22-adbf7b9e950c": {
+      "bossId": "boss_1760261071836_fny5vt4eh",
+      "attackerId": "231018596099162112",
+      "creatureId": "837ae152-04b0-4433-b061-0a095044835a",
+      "timestamp": 1760270281224,
+      "damageDealt": 89,
+      "creatureDied": false
+    },
+    "b0635776-fe5a-4687-b048-ecf84bb406bd": {
+      "bossId": "boss_1760261071836_fny5vt4eh",
+      "attackerId": "231018596099162112",
+      "creatureId": "a4e87bcf-2795-4b0c-b902-b705e9cfaf05",
+      "timestamp": 1760270355120,
+      "damageDealt": 85,
+      "creatureDied": false
+    },
+    "7967f31e-3015-4f82-ada7-6d90f393221e": {
+      "bossId": "boss_1760261071836_fny5vt4eh",
+      "attackerId": "231018596099162112",
+      "creatureId": "837ae152-04b0-4433-b061-0a095044835a",
+      "timestamp": 1760270398074,
+      "damageDealt": 86,
+      "creatureDied": false
+    },
+    "cee95b93-36c3-4f66-a5a6-de2e43fda0f6": {
+      "bossId": "boss_1760261071836_fny5vt4eh",
+      "attackerId": "231018596099162112",
+      "creatureId": "837ae152-04b0-4433-b061-0a095044835a",
+      "timestamp": 1760270472604,
+      "damageDealt": 84,
+      "creatureDied": false
+    },
+    "0087b085-4fc2-493a-bfad-9ee39c58c499": {
+      "bossId": "boss_1760261071836_fny5vt4eh",
+      "attackerId": "293145222710427649",
+      "creatureId": "52e458c8-84d4-4e3a-91c7-5c389b6fa350",
+      "timestamp": 1760270984660,
+      "damageDealt": 83,
+      "creatureDied": false
+    },
+    "762a4fc1-dc9c-4164-84f7-b4f4a66dcae2": {
+      "bossId": "boss_1760261071836_fny5vt4eh",
+      "attackerId": "293145222710427649",
+      "creatureId": "202043d9-19fc-41d1-ac5d-a4a9df1459e2",
+      "timestamp": 1760271028590,
+      "damageDealt": 73,
+      "creatureDied": false
+    },
+    "4ed9e648-922d-48b7-bb87-68f0b73b270f": {
+      "bossId": "boss_1760261071836_fny5vt4eh",
+      "attackerId": "806696847552938015",
+      "creatureId": "c37fff43-9106-4c70-8829-0d377594de58",
+      "timestamp": 1760271826429,
+      "damageDealt": 93,
+      "creatureDied": false
+    },
+    "530ff149-2d81-4d8c-8875-ee79b864c28b": {
+      "bossId": "boss_1760261071836_fny5vt4eh",
+      "attackerId": "806696847552938015",
+      "creatureId": "23f692ad-2181-47ac-8b7b-7fd9b61dbb50",
+      "timestamp": 1760271831539,
+      "damageDealt": 68,
+      "creatureDied": false
+    },
+    "1d04d42a-37b4-4012-972b-4638226aa710": {
+      "bossId": "boss_1760261071836_fny5vt4eh",
+      "attackerId": "806696847552938015",
+      "creatureId": "a578f4a6-a1d4-4532-a5ee-ef2be9923fcd",
+      "timestamp": 1760271835253,
+      "damageDealt": 101,
+      "creatureDied": false
+    },
+    "efc79ad2-ca69-4b05-9c11-b07978e94c23": {
+      "bossId": "boss_1760261071836_fny5vt4eh",
+      "attackerId": "806696847552938015",
+      "creatureId": "c37fff43-9106-4c70-8829-0d377594de58",
+      "timestamp": 1760271874315,
+      "damageDealt": 96,
+      "creatureDied": false
+    },
+    "8fd7e614-b836-4ce2-a861-e9ca6eff2968": {
+      "bossId": "boss_1760392531686_t0dgb9erd",
+      "attackerId": "410662767981232128",
+      "creatureId": "20507afd-ead7-42f7-b200-6e21a61528fe",
+      "timestamp": 1760392570031,
+      "damageDealt": 65,
+      "creatureDied": false
+    },
+    "a3a95322-450b-45da-b4f7-692ce5cd7be4": {
+      "bossId": "boss_1760392531686_t0dgb9erd",
+      "attackerId": "410662767981232128",
+      "creatureId": "20507afd-ead7-42f7-b200-6e21a61528fe",
+      "timestamp": 1760392811469,
+      "damageDealt": 63,
+      "creatureDied": false
+    },
+    "8f9e7e1c-5ca4-4fd7-af03-aeb74ccb9634": {
+      "bossId": "boss_1760392531686_t0dgb9erd",
+      "attackerId": "410662767981232128",
+      "creatureId": "20507afd-ead7-42f7-b200-6e21a61528fe",
+      "timestamp": 1760392820640,
+      "damageDealt": 65,
+      "creatureDied": true
+    },
+    "047d2d6d-3c46-4f69-ad5e-1529e578409a": {
+      "bossId": "boss_1760392531686_t0dgb9erd",
+      "attackerId": "884982836233371708",
+      "creatureId": "0991fb64-0dd1-4b24-8779-bc7f7ea0a97a",
+      "timestamp": 1760427185046,
+      "damageDealt": 92,
+      "creatureDied": false
+    },
+    "eb38e6fb-c433-4337-9cb4-928162e2a599": {
+      "bossId": "boss_1760392531686_t0dgb9erd",
+      "attackerId": "293145222710427649",
+      "creatureId": "984fa169-f31f-4fed-b8f1-59228b62e235",
+      "timestamp": 1760428209051,
+      "damageDealt": 38,
+      "creatureDied": true
+    },
+    "434a8c7a-52d5-4240-b070-ee3ccba14cec": {
+      "bossId": "boss_1760392531686_t0dgb9erd",
+      "attackerId": "911542495345782794",
+      "creatureId": "22bed765-fdb5-4f11-a01d-271aad46ed4b",
+      "timestamp": 1760428284856,
+      "damageDealt": 67,
+      "creatureDied": true
+    },
+    "78b622f6-2a6e-4c4f-8163-b991bdfeee90": {
+      "bossId": "boss_1760392531686_t0dgb9erd",
+      "attackerId": "911542495345782794",
+      "creatureId": "d993f61f-d7ad-4b3a-b994-5e5dab0e65a4",
+      "timestamp": 1760428359589,
+      "damageDealt": 78,
+      "creatureDied": false
+    },
+    "8efdee3d-d307-4cc2-a77e-e638bab717d9": {
+      "bossId": "boss_1760392531686_t0dgb9erd",
+      "attackerId": "911542495345782794",
+      "creatureId": "d993f61f-d7ad-4b3a-b994-5e5dab0e65a4",
+      "timestamp": 1760428397024,
+      "damageDealt": 76,
+      "creatureDied": false
+    },
+    "07ba5452-0707-4a13-9f19-c00a14440d10": {
+      "bossId": "boss_1760392531686_t0dgb9erd",
+      "attackerId": "911542495345782794",
+      "creatureId": "d993f61f-d7ad-4b3a-b994-5e5dab0e65a4",
+      "timestamp": 1760428435856,
+      "damageDealt": 76,
+      "creatureDied": false
+    },
+    "8e0d1713-7cfa-4c93-a90f-39d546b77f13": {
+      "bossId": "boss_1760392531686_t0dgb9erd",
+      "attackerId": "911542495345782794",
+      "creatureId": "d993f61f-d7ad-4b3a-b994-5e5dab0e65a4",
+      "timestamp": 1760428479448,
+      "damageDealt": 79,
+      "creatureDied": false
+    },
+    "0d8a88ba-6790-462f-b1b9-e4a68d151413": {
+      "bossId": "boss_1760392531686_t0dgb9erd",
+      "attackerId": "911542495345782794",
+      "creatureId": "d993f61f-d7ad-4b3a-b994-5e5dab0e65a4",
+      "timestamp": 1760428538996,
+      "damageDealt": 75,
+      "creatureDied": false
+    },
+    "ae2fb4f5-76d6-404e-a5b1-cbd524bc20e9": {
+      "bossId": "boss_1760392531686_t0dgb9erd",
+      "attackerId": "911542495345782794",
+      "creatureId": "d993f61f-d7ad-4b3a-b994-5e5dab0e65a4",
+      "timestamp": 1760428614465,
+      "damageDealt": 76,
+      "creatureDied": false
+    },
+    "8b02fb84-561f-440c-afe0-de02a51f39ee": {
+      "bossId": "boss_1760392531686_t0dgb9erd",
+      "attackerId": "911542495345782794",
+      "creatureId": "d993f61f-d7ad-4b3a-b994-5e5dab0e65a4",
+      "timestamp": 1760428655958,
+      "damageDealt": 73,
+      "creatureDied": false
+    },
+    "495d4752-c5cc-4181-95e6-82ab67fb02cd": {
+      "bossId": "boss_1760392531686_t0dgb9erd",
+      "attackerId": "911542495345782794",
+      "creatureId": "d993f61f-d7ad-4b3a-b994-5e5dab0e65a4",
+      "timestamp": 1760428694651,
+      "damageDealt": 77,
+      "creatureDied": false
+    },
+    "aa15d76e-5548-4a91-b912-15375a7f6474": {
+      "bossId": "boss_1760392531686_t0dgb9erd",
+      "attackerId": "911542495345782794",
+      "creatureId": "d993f61f-d7ad-4b3a-b994-5e5dab0e65a4",
+      "timestamp": 1760428730162,
+      "damageDealt": 79,
+      "creatureDied": false
+    },
+    "dfb7ce81-2588-4cf6-bd97-da376be46eab": {
+      "bossId": "boss_1760392531686_t0dgb9erd",
+      "attackerId": "911542495345782794",
+      "creatureId": "d993f61f-d7ad-4b3a-b994-5e5dab0e65a4",
+      "timestamp": 1760428764773,
+      "damageDealt": 76,
+      "creatureDied": false
+    },
+    "6633dcf7-1d32-4a85-8430-9e70a6e94913": {
+      "bossId": "boss_1760392531686_t0dgb9erd",
+      "attackerId": "911542495345782794",
+      "creatureId": "d993f61f-d7ad-4b3a-b994-5e5dab0e65a4",
+      "timestamp": 1760428799796,
+      "damageDealt": 76,
+      "creatureDied": false
+    }
+  }
+}
