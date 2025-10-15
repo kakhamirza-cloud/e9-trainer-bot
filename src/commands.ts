@@ -1,7 +1,7 @@
 import { SlashCommandBuilder, ChatInputCommandInteraction, EmbedBuilder, User, ActionRowBuilder, ButtonBuilder, ButtonStyle, ComponentType } from 'discord.js';
-import { storage } from './storage';
-import { getRandomCreature, getRandomBotCreature, getRarityEmoji, getRandomAdventureItem, createRandomBoss, createMythicalGuardian, E9_CREATURES } from './creatures';
-import { CaughtCreature } from './types';
+import { storage } from './storage.js';
+import { getRandomCreature, getRandomBotCreature, getRarityEmoji, getRandomAdventureItem, createRandomBoss, createMythicalGuardian, E9_CREATURES } from './creatures.js';
+import { CaughtCreature } from './types.js';
 
 export interface Command {
   data: SlashCommandBuilder;

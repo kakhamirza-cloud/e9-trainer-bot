@@ -1,5 +1,5 @@
 import { REST, Routes } from 'discord.js';
-import { commands } from './commands';
+import { commands } from './commands.js';
 import dotenv from 'dotenv';
 
 // Load environment variables

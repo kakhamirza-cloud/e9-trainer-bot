@@ -1,6 +1,6 @@
 import { Client, GatewayIntentBits, Collection, Events } from 'discord.js';
-import { commands } from './commands';
-import { storage } from './storage';
+import { commands } from './commands.js';
+import { storage } from './storage.js';
 import dotenv from 'dotenv';
 
 // Load environment variables

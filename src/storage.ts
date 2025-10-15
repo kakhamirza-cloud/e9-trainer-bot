@@ -1,6 +1,6 @@
 import { Low } from 'lowdb';
 import { JSONFile } from 'lowdb/node';
-import { UserInventory, CaughtCreature, AdventureItem, BossCreature, BossBattle, UserBossStats, GymBattle, GymBadge, GymBattleResult } from './types';
+import { UserInventory, CaughtCreature, AdventureItem, BossCreature, BossBattle, UserBossStats, GymBattle, GymBadge, GymBattleResult } from './types.js';
 import { v4 as uuidv4 } from 'uuid';
 
 interface Challenge {
